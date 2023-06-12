@@ -17,6 +17,9 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #fff;
 }
 
 #content {
@@ -26,7 +29,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #000;
 }
 
 h1 {
